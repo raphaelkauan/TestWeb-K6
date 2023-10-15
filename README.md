@@ -5,9 +5,6 @@
 <br>
 
 <div align="center">
+  <p>Exemplo de Teste de Performance:</p>
   <img height="400em" src="./img/signup-load.png" alt="Exemplo">
-</div>
-
-<div align="center">
-  <h3></h3>
 </div>
