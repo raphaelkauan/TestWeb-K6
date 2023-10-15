@@ -1,9 +1,13 @@
 <div align="center">
-  <h1>Teste de Performance Utilizando o JMeter</h1>
+  <h1>Teste de Performance Utilizando o K6</h1>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="450em" src="./img/signup-load.png" alt="Exemplo">
+  <img height="400em" src="./img/signup-load.png" alt="Exemplo">
+</div>
+
+<div align="center">
+  <h3></h3>
 </div>
