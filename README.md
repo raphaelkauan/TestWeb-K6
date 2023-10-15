@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Teste de Performance Utilizando o K6</h1>
+  <h1>Teste de Performance Utilizando o k6</h1>
 </div>
 
 <br>
