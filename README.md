@@ -5,21 +5,27 @@
 <br>
 
 <div align="center">
-  <p>Exemplo de Teste de Performance:</p>
-  <img height="400em" src="./img/signup-load.png" alt="Exemplo">
+  <p>Smoke Test</p>
+  <img height="350em" src="./img/signup-smoke.png" alt="Exemplo">
 </div>
 
-<div align="center">
-  <p></p>
-  <img height="400em" src="" alt="Exemplo">
-</div>
+<br>
 
 <div align="center">
-  <p></p>
-  <img height="400em" src="" alt="Exemplo">
+  <p>Load Test</p>
+  <img height="350em" src="./img/signup-load.png" alt="Exemplo">
 </div>
 
+<br>
+
 <div align="center">
-  <p></p>
-  <img height="400em" src="" alt="Exemplo">
+  <p>Spike Test</p>
+  <img height="350em" src="./img/signup-spike.png" alt="Exemplo">
+</div>
+
+<br>
+
+<div align="center">
+  <p>Stress Test</p>
+  <img height="350em" src="./img/signup-stress.png" alt="Exemplo">
 </div>
