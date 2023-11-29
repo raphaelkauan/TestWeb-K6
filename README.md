@@ -29,8 +29,3 @@
   <p>Stress Test</p>
   <img height="350em" src="./img/signup-stress.png" alt="Exemplo">
 </div>
-
-<div align="center">
-  <p>Stress Test</p>
-  <img height="350em" src="./img/signup-stress.png" alt="Exemplo">
-</div>
